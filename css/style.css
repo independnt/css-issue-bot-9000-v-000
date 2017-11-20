@@ -1,7 +1,8 @@
 body {
   background: pink;
+}
 
-#title{
+h1 #title {
   color: blue;
   font-size: 3em;
 }
